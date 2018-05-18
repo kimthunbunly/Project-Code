@@ -1,12 +1,15 @@
 import React, { Component } from 'react';
-import './Navbar.css';
+import '../../assets/css/App.css';
+
 
 class Navbar extends Component {
   render() {
     return (
     <div>
-        <div className="navigation">
-          <h1>Navigation</h1>
+        <div className="column left">
+          <div className="navigation">
+            <h1>Navigation</h1>
+          </div>
         </div>
     </div>
     );

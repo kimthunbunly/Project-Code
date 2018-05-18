@@ -1,0 +1,21 @@
+.header{ background-color: #E66272;  width: auto;  height: 65px;  margin: 0px;  margin-top: 0px;  padding: 0px;  box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);}
+  .header h1{  text-align: left;  margin: 0px;  color: #FFF;}
+  .brand-logo{position:absolute;color:#fff;display:inline-block;font-size:2.1rem;padding:0; margin-top:10px;}
+  .brand-logo img{width: 12%;height: auto;margin-left: 70px;}
+  .header-rigth{float:right !important; display: table; margin-top: 21px;}
+  .header-rigth .header-menu{list-style: none;}
+  .header-menu li{display: inline; margin-right: 23px; margin-top: 21px;}
+  .header-menu a{color: #FFF;}
+  .header-menu input{margin-right: 20px;border-radius: 0px;}
+
+.column { float: left; height: 100px; width: 100%;}
+  .left { width: 15%;}
+  .right { width: 85%;}
+
+.navigation{ background-color:rgba(230,98,114,0.5);height: 92vh;}
+  .navigation h1{  text-align:center; color: #FFF;margin: 0px; font-size: 30px;}
+
+.content{ position: relative; margin: 0 auto;}
+  .content img{width: 100%;}
+  .content .align-center{ position: absolute; top: 7%; background: rgba(0, 0, 0, 0.5);width: auto; padding: 20px; text-align: center; margin-left: 8%;}
+  .content h1{ text-align: center ;color:#F39200;font-family:Quangngai;font-size: 55px;width: 100%;}
